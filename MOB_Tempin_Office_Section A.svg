@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 2000">
+  <defs>
+    <style>
+      .lw {
+        stroke-width: .18px;
+      }
+
+      .lw, .lx, .ly, .lz, .ma, .mb, .mc, .md, .me, .mf, .mg, .mh, .mi, .mj, .mk, .ml, .mm, .mn, .mo {
+        stroke: #000;
+      }
+
+      .lw, .lx, .ly, .lz, .ma, .mb, .mc, .me, .mf, .mg, .mh, .mi, .mj, .mk, .ml, .mm, .mn, .mo {
+        stroke-miterlimit: 10;
+      }
+
+      .lw, .lx, .ly, .lz, .ma, .mb, .mc, .me, .mf, .mg, .mh, .mi, .mk, .ml, .mm, .mn, .mo {
+        fill: none;
+      }
+
+      .lx, .md {
+        stroke-width: .5px;
+      }
+
+      .ly {
+        stroke-dasharray: 2.01 1;
+      }
+
+      .ly, .mc, .me, .mg, .ml, .mm, .mn {
+        stroke-width: .1px;
+      }
+
+      .lz {
+        stroke-width: .15px;
+      }
+
+      .ma {
+        stroke-width: .8px;
+      }
+
+      .mb {
+        stroke-width: .4px;
+      }
+
+      .mc {
+        stroke-dasharray: 1.98 .99;
+      }
+
+      .md {
+        fill: #040000;
+        font-family: SUITVariable-Medium, 'SUIT Variable';
+        font-size: 16.01px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .me {
+        stroke-dasharray: 2 1;
+      }
+
+      .mf {
+        stroke-width: 2px;
+      }
+
+      .mg {
+        stroke-dasharray: 2 1;
+      }
+
+      .mh, .mj {
+        stroke-width: .25px;
+      }
+
+      .mi {
+        stroke-width: .3px;
+      }
+
+      .mj {
+        fill: #d6d6d6;
+        fill-rule: evenodd;
+      }
+
+      .mk {
+        stroke-width: .6px;
+      }
+
+      .mm {
+        stroke-dasharray: 1.97 .98;
+      }
+
+      .mn {
+        stroke-dasharray: 2.01 1;
+      }
+
+      .mo {
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <g id="g" data-name="S1">
+    <g id="h" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="579.64" y1="1101.78" x2="580.2" y2="1102.61"/>
+        <line class="mc" x1="580.75" y1="1103.43" x2="607.15" y2="1142.45"/>
+        <polyline class="ml" points="607.42 1142.86 607.98 1143.68 607.42 1144.51"/>
+        <line class="mc" x1="606.87" y1="1145.33" x2="580.48" y2="1184.35"/>
+        <line class="ml" x1="580.2" y1="1184.76" x2="579.64" y2="1185.59"/>
+      </g>
+    </g>
+    <g id="i" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="717.4" y1="910.68" x2="718.01" y2="911.47"/>
+        <line class="mn" x1="718.61" y1="912.27" x2="767.52" y2="976.66"/>
+        <polyline class="ml" points="767.82 977.06 768.43 977.86 767.82 978.65"/>
+        <line class="mn" x1="767.21" y1="979.45" x2="718.31" y2="1043.84"/>
+        <line class="ml" x1="718.01" y1="1044.24" x2="717.4" y2="1045.04"/>
+      </g>
+    </g>
+    <g id="j" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="717.4" y1="755.9" x2="718.01" y2="756.7"/>
+        <line class="mn" x1="718.61" y1="757.5" x2="767.52" y2="821.89"/>
+        <polyline class="ml" points="767.82 822.29 768.43 823.09 767.82 823.88"/>
+        <line class="mn" x1="767.21" y1="824.68" x2="718.31" y2="889.07"/>
+        <line class="ml" x1="718.01" y1="889.47" x2="717.4" y2="890.27"/>
+      </g>
+    </g>
+    <g id="k" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="628.11" y1="592.63" x2="628.67" y2="593.46"/>
+        <line class="mg" x1="629.23" y1="594.28" x2="672.62" y2="658.29"/>
+        <polyline class="ml" points="672.9 658.7 673.46 659.53 672.91 660.36"/>
+        <line class="ly" x1="672.35" y1="661.19" x2="628.95" y2="725.75"/>
+        <line class="ml" x1="628.67" y1="726.16" x2="628.11" y2="726.99"/>
+      </g>
+    </g>
+    <g id="l" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="789.97" y1="1246.02" x2="790.6" y2="1246.79"/>
+        <line class="me" x1="791.24" y1="1247.56" x2="836.64" y2="1302.68"/>
+        <polyline class="ml" points="836.96 1303.07 837.59 1303.84 836.96 1304.61"/>
+        <line class="me" x1="836.32" y1="1305.38" x2="790.92" y2="1360.51"/>
+        <line class="ml" x1="790.6" y1="1360.9" x2="789.97" y2="1361.67"/>
+      </g>
+    </g>
+    <g id="m" data-name="LWPOLYLINE">
+      <g>
+        <line class="ml" x1="870.47" y1="1246.02" x2="871.25" y2="1246.64"/>
+        <line class="mm" x1="872.01" y1="1247.26" x2="919.77" y2="1285.9"/>
+        <polyline class="ml" points="920.15 1286.21 920.93 1286.83 920.15 1287.46"/>
+        <line class="mm" x1="919.39" y1="1288.08" x2="871.63" y2="1326.71"/>
+        <line class="ml" x1="871.25" y1="1327.02" x2="870.47" y2="1327.65"/>
+      </g>
+    </g>
+    <g id="n" data-name="LWPOLYLINE">
+      <polyline class="ml" points="784.3 1186.2 789.02 1186.2 789.02 1118.17 784.3 1118.17"/>
+    </g>
+    <g id="o" data-name="LWPOLYLINE">
+      <polyline class="ml" points="784.3 1119.59 787.61 1119.59 787.61 1184.79 784.3 1184.79"/>
+    </g>
+    <g id="p" data-name="LWPOLYLINE">
+      <polyline class="ml" points="783.73 1119.59 780.42 1119.59 780.42 1184.79 783.73 1184.79"/>
+    </g>
+    <g id="q" data-name="LWPOLYLINE">
+      <polyline class="ml" points="783.73 1186.2 779.01 1186.2 779.01 1118.17 783.73 1118.17"/>
+    </g>
+    <g id="r" data-name="LWPOLYLINE">
+      <polyline class="ml" points="861.97 1329.35 866.69 1329.35 866.69 1261.32 861.97 1261.32"/>
+    </g>
+    <g id="s" data-name="LWPOLYLINE">
+      <polyline class="ml" points="861.97 1262.74 865.28 1262.74 865.28 1327.94 861.97 1327.94"/>
+    </g>
+    <g id="t" data-name="LWPOLYLINE">
+      <polyline class="ml" points="861.4 1262.74 858.09 1262.74 858.09 1327.94 861.4 1327.94"/>
+    </g>
+    <g id="u" data-name="LWPOLYLINE">
+      <polyline class="ml" points="861.4 1329.35 856.68 1329.35 856.68 1261.32 861.4 1261.32"/>
+    </g>
+    <g id="v" data-name="LWPOLYLINE">
+      <rect class="ml" x="759.92" y="1042.77" width="8.5" height="2.83"/>
+    </g>
+    <g id="w" data-name="LWPOLYLINE">
+      <polyline class="ml" points="768.99 910.68 768.99 1045.04 772.68 1045.04"/>
+    </g>
+    <g id="x" data-name="LWPOLYLINE">
+      <polyline class="ml" points="564.33 1045.04 614.22 1045.04 614.22 910.68"/>
+    </g>
+    <g id="y" data-name="LWPOLYLINE">
+      <polyline class="ml" points="665.24 910.68 665.24 1045.04 615.35 1045.04 615.35 910.68"/>
+    </g>
+    <g id="z" data-name="LWPOLYLINE">
+      <line class="ml" x1="768.43" y1="913.51" x2="768.43" y2="1042.77"/>
+    </g>
+    <g id="aa" data-name="LWPOLYLINE">
+      <polyline class="ml" points="759.92 1045.04 717.4 1045.04 717.4 910.68"/>
+    </g>
+    <g id="ab" data-name="LWPOLYLINE">
+      <polyline class="ml" points="716.27 910.68 716.27 1045.04 666.38 1045.04 666.38 910.68"/>
+    </g>
+    <g id="ac" data-name="LWPOLYLINE">
+      <rect class="ml" x="759.92" y="910.68" width="8.5" height="2.83"/>
+    </g>
+    <g id="ad" data-name="LWPOLYLINE">
+      <rect class="ml" x="720.99" y="943.84" width="1.42" height="68.03"/>
+    </g>
+    <g id="ae" data-name="LWPOLYLINE">
+      <line class="ml" x1="609.69" y1="1166.36" x2="609.69" y2="1075.65"/>
+    </g>
+    <g id="af" data-name="LWPOLYLINE">
+      <line class="ml" x1="642.57" y1="1166.36" x2="642.57" y2="1075.65"/>
+    </g>
+    <g id="ag" data-name="LWPOLYLINE">
+      <line class="ml" x1="579.64" y1="1084.16" x2="609.69" y2="1084.16"/>
+    </g>
+    <g id="ah" data-name="LWPOLYLINE">
+      <line class="ml" x1="609.69" y1="1203.21" x2="579.64" y2="1203.21"/>
+    </g>
+    <g id="ai" data-name="LWPOLYLINE">
+      <polyline class="ml" points="579.64 1085.86 607.98 1085.86 607.98 1201.51 579.64 1201.51"/>
+    </g>
+    <g id="aj" data-name="LWPOLYLINE">
+      <polyline class="ml" points="768.99 755.9 768.99 890.27 772.68 890.27"/>
+    </g>
+    <g id="ak" data-name="LWPOLYLINE">
+      <polyline class="ml" points="564.33 890.27 614.22 890.27 614.22 755.9"/>
+    </g>
+    <g id="al" data-name="LWPOLYLINE">
+      <polyline class="ml" points="665.24 755.9 665.24 890.27 615.35 890.27 615.35 755.9"/>
+    </g>
+    <g id="am" data-name="LWPOLYLINE">
+      <line class="ml" x1="768.43" y1="758.74" x2="768.43" y2="888"/>
+    </g>
+    <g id="an" data-name="LWPOLYLINE">
+      <polyline class="ml" points="759.92 890.27 717.4 890.27 717.4 755.9"/>
+    </g>
+    <g id="ao" data-name="LWPOLYLINE">
+      <polyline class="ml" points="716.27 755.9 716.27 890.27 666.38 890.27 666.38 755.9"/>
+    </g>
+    <g id="ap" data-name="LWPOLYLINE">
+      <rect class="ml" x="759.92" y="755.9" width="8.5" height="2.83"/>
+    </g>
+    <g id="aq" data-name="LWPOLYLINE">
+      <rect class="ml" x="720.99" y="789.07" width="1.42" height="68.03"/>
+    </g>
+    <g id="ar" data-name="LWPOLYLINE">
+      <rect class="ml" x="759.92" y="888" width="8.5" height="2.83"/>
+    </g>
+    <g id="as" data-name="LINE">
+      <line class="ml" x1="844.96" y1="651.02" x2="701.81" y2="651.02"/>
+    </g>
+    <g id="at" data-name="LINE">
+      <line class="ml" x1="844.96" y1="652.72" x2="701.81" y2="652.72"/>
+    </g>
+    <g id="au" data-name="LWPOLYLINE">
+      <line class="ml" x1="788.27" y1="1244.31" x2="839.29" y2="1244.31"/>
+    </g>
+    <g id="av" data-name="LWPOLYLINE">
+      <rect class="ml" x="789.97" y="1246.02" width="47.62" height="115.65"/>
+    </g>
+    <g id="aw" data-name="LWPOLYLINE">
+      <rect class="ml" x="793.37" y="1249.42" width="40.82" height="108.85"/>
+    </g>
+    <g id="ax" data-name="LWPOLYLINE">
+      <polyline class="lz" points="526.91 1075.65 526.91 1211.72 538.82 1211.72"/>
+    </g>
+    <g id="ay" data-name="LINE">
+      <line class="lz" x1="887.48" y1="1045.61" x2="887.48" y2="899.9"/>
+    </g>
+    <g id="az" data-name="LINE">
+      <line class="lz" x1="898.82" y1="1045.61" x2="898.82" y2="900.19"/>
+    </g>
+    <g id="ba" data-name="LWPOLYLINE">
+      <polyline class="lz" points="538.82 1035.97 526.91 1035.97 526.91 920.88"/>
+    </g>
+    <g id="bb" data-name="LWPOLYLINE">
+      <polyline class="lz" points="753.12 1166.36 609.69 1166.36 609.69 1211.72"/>
+    </g>
+    <g id="bc" data-name="LINE">
+      <line class="lz" x1="753.12" y1="1167.5" x2="609.69" y2="1167.5"/>
+    </g>
+    <g id="bd" data-name="LINE">
+      <line class="lz" x1="610.82" y1="1167.5" x2="610.82" y2="1211.72"/>
+    </g>
+    <g id="be" data-name="LWPOLYLINE">
+      <path class="lz" d="M750.79,1166.36v-10.77c0-1.39-1.13-2.52-2.52-2.52h-6.24c-1.39,0-2.52,1.13-2.52,2.52v1.51h1.11v-1.23c0-.94.76-1.7,1.7-1.7h5.67c.94,0,1.7.76,1.7,1.7v10.49"/>
+    </g>
+    <g id="bf" data-name="LINE">
+      <line class="lz" x1="887.48" y1="890.83" x2="887.48" y2="737.21"/>
+    </g>
+    <g id="bg" data-name="LINE">
+      <line class="lz" x1="898.82" y1="890.83" x2="898.82" y2="737.21"/>
+    </g>
+    <g id="bh" data-name="LWPOLYLINE">
+      <polyline class="lz" points="538.82 881.2 526.91 881.2 526.91 757.61"/>
+    </g>
+    <g id="bi" data-name="LWPOLYLINE">
+      <rect class="lz" x="664.96" y="724.16" width="8.5" height="2.83"/>
+    </g>
+    <g id="bj" data-name="LWPOLYLINE">
+      <polyline class="lz" points="679.13 592.06 674.03 592.06 674.03 726.99 679.13 726.99"/>
+    </g>
+    <g id="bk" data-name="LINE">
+      <line class="lz" x1="673.46" y1="594.9" x2="673.46" y2="724.16"/>
+    </g>
+    <g id="bl" data-name="LWPOLYLINE">
+      <polyline class="lz" points="562.91 726.99 585.02 726.99 585.02 592.06 562.91 592.06"/>
+    </g>
+    <g id="bm" data-name="LWPOLYLINE">
+      <rect class="lz" x="664.96" y="592.06" width="8.5" height="2.83"/>
+    </g>
+    <g id="bn" data-name="LWPOLYLINE">
+      <polyline class="lz" points="664.96 726.99 628.11 726.99 628.11 592.06 664.96 592.06"/>
+    </g>
+    <g id="bo" data-name="LWPOLYLINE">
+      <rect class="lz" x="631.7" y="625.79" width="1.42" height="68.03"/>
+    </g>
+    <g id="bp" data-name="LINE">
+      <line class="lz" x1="618.19" y1="1363.37" x2="618.19" y2="1241.76"/>
+    </g>
+    <g id="bq" data-name="LINE">
+      <line class="lz" x1="847.8" y1="1247.15" x2="847.8" y2="1326.52"/>
+    </g>
+    <g id="br" data-name="LINE">
+      <line class="lz" x1="610.82" y1="1206.05" x2="753.12" y2="1206.05"/>
+    </g>
+    <g id="bs" data-name="LINE">
+      <line class="lz" x1="730.44" y1="1206.05" x2="730.44" y2="1167.5"/>
+    </g>
+    <g id="bt" data-name="LINE">
+      <line class="lz" x1="707.76" y1="1206.05" x2="707.76" y2="1167.5"/>
+    </g>
+    <g id="bu" data-name="LINE">
+      <line class="lz" x1="685.09" y1="1206.05" x2="685.09" y2="1167.5"/>
+    </g>
+    <g id="bv" data-name="LINE">
+      <line class="lz" x1="662.41" y1="1206.05" x2="662.41" y2="1167.5"/>
+    </g>
+    <g id="bw" data-name="LINE">
+      <line class="lz" x1="652.2" y1="1319.15" x2="652.2" y2="1363.37"/>
+    </g>
+    <g id="bx" data-name="LINE">
+      <line class="lz" x1="652.2" y1="1357.7" x2="754.25" y2="1357.7"/>
+    </g>
+    <g id="by" data-name="LWPOLYLINE">
+      <polyline class="lz" points="754.25 1318.02 652.2 1318.02 652.2 1319.15 754.25 1319.15"/>
+    </g>
+    <g id="bz" data-name="LINE">
+      <line class="lz" x1="686.98" y1="1357.7" x2="686.98" y2="1319.15"/>
+    </g>
+    <g id="ca" data-name="LINE">
+      <line class="lz" x1="720.61" y1="1357.7" x2="720.61" y2="1319.15"/>
+    </g>
+    <g id="cb" data-name="LWPOLYLINE">
+      <polyline class="lz" points="526.91 606.24 526.91 717.92 538.82 717.92"/>
+    </g>
+    <g id="cc" data-name="LWPOLYLINE">
+      <path class="lz" d="M721.08,1318.02v-10.77c0-1.39-1.13-2.52-2.52-2.52h-6.24c-1.39,0-2.52,1.13-2.52,2.52v1.51h1.11v-1.23c0-.94.76-1.7,1.7-1.7h5.67c.94,0,1.7.76,1.7,1.7v10.49"/>
+    </g>
+    <g id="cd" data-name="LINE">
+      <line class="lz" x1="652.2" y1="1318.02" x2="652.2" y2="1241.76"/>
+    </g>
+    <g id="ce" data-name="LINE">
+      <line class="lz" x1="839.29" y1="1247.15" x2="839.29" y2="1326.52"/>
+    </g>
+    <g id="cf" data-name="LINE">
+      <line class="lw" x1="938.08" y1="1220.79" x2="1009.37" y2="1220.79"/>
+    </g>
+    <g id="cg" data-name="LWPOLYLINE">
+      <polygon class="lw" points="939.64 1202.08 939.64 1044.75 1006.54 1051.03 1006.54 1202.08 939.64 1202.08"/>
+    </g>
+    <g id="ch" data-name="LWPOLYLINE">
+      <polyline class="lw" points="1009.37 1204.91 938.08 1204.91 938.08 1211.72"/>
+    </g>
+    <g id="ci" data-name="LINE">
+      <line class="lw" x1="788.27" y1="1200.38" x2="918.66" y2="1200.38"/>
+    </g>
+    <g id="cj" data-name="LINE">
+      <line class="lw" x1="847.23" y1="1200.38" x2="847.23" y2="1099.46"/>
+    </g>
+    <g id="ck" data-name="LINE">
+      <line class="lw" x1="918.66" y1="1099.46" x2="788.27" y2="1099.46"/>
+    </g>
+    <g id="cl" data-name="LINE">
+      <line class="lw" x1="817.75" y1="1099.46" x2="817.75" y2="1200.38"/>
+    </g>
+    <g id="cm" data-name="LWPOLYLINE">
+      <rect class="lw" x="782.6" y="1208.88" width="2.83" height="2.83"/>
+    </g>
+    <g id="cn" data-name="LWPOLYLINE">
+      <rect class="lw" x="782.6" y="1075.65" width="2.83" height="2.83"/>
+    </g>
+    <g id="co" data-name="LWPOLYLINE">
+      <rect class="lw" x="860.27" y="1360.53" width="2.83" height="2.83"/>
+    </g>
+    <g id="cp" data-name="LWPOLYLINE">
+      <rect class="lw" x="860.27" y="1232.13" width="2.83" height="2.83"/>
+    </g>
+    <g id="cq" data-name="LINE">
+      <line class="lw" x1="810.94" y1="1045.61" x2="810.94" y2="910.68"/>
+    </g>
+    <g id="cr" data-name="LINE">
+      <line class="lw" x1="853.46" y1="910.68" x2="853.46" y2="1045.61"/>
+    </g>
+    <g id="cs" data-name="LINE">
+      <line class="lw" x1="832.2" y1="910.68" x2="832.2" y2="1045.61"/>
+    </g>
+    <g id="ct" data-name="LINE">
+      <line class="lw" x1="810.94" y1="890.83" x2="810.94" y2="755.9"/>
+    </g>
+    <g id="cu" data-name="LINE">
+      <line class="lw" x1="853.46" y1="755.9" x2="853.46" y2="890.83"/>
+    </g>
+    <g id="cv" data-name="LINE">
+      <line class="lw" x1="832.2" y1="755.92" x2="832.2" y2="890.83"/>
+    </g>
+    <g id="cw" data-name="LINE">
+      <line class="lw" x1="585.59" y1="591.5" x2="585.59" y2="727.56"/>
+    </g>
+    <g id="cx" data-name="LINE">
+      <line class="lw" x1="627.54" y1="591.5" x2="627.54" y2="727.56"/>
+    </g>
+    <g id="cy" data-name="LINE">
+      <line class="lw" x1="839.29" y1="1232.13" x2="839.29" y2="1247.15"/>
+    </g>
+    <g id="cz" data-name="LINE">
+      <line class="lw" x1="839.29" y1="1329.35" x2="839.29" y2="1363.37"/>
+    </g>
+    <g id="da" data-name="LINE">
+      <line class="lw" x1="868.77" y1="1329.35" x2="866.69" y2="1329.35"/>
+    </g>
+    <g id="db" data-name="LWPOLYLINE">
+      <polyline class="lw" points="856.68 1329.35 839.29 1329.35 839.29 1326.52 856.68 1326.52"/>
+    </g>
+    <g id="dc" data-name="LWPOLYLINE">
+      <polyline class="lw" points="857.43 1261.32 857.43 1247.15 839.29 1247.15 839.29 1244.31 860.27 1244.31"/>
+    </g>
+    <g id="dd" data-name="LWPOLYLINE">
+      <rect class="lw" x="868.77" y="1244.31" width="53.86" height="85.04"/>
+    </g>
+    <g id="de" data-name="LWPOLYLINE">
+      <rect class="lw" x="870.47" y="1246.02" width="50.46" height="81.64"/>
+    </g>
+    <g id="df" data-name="LWPOLYLINE">
+      <rect class="lw" x="873.87" y="1249.42" width="43.65" height="74.83"/>
+    </g>
+    <g id="dg" data-name="LINE">
+      <line class="lw" x1="860.27" y1="1244.31" x2="868.77" y2="1244.31"/>
+    </g>
+    <g id="dh" data-name="LINE">
+      <line class="lw" x1="922.63" y1="1244.31" x2="922.63" y2="1232.13"/>
+    </g>
+    <g id="di" data-name="LINE">
+      <line class="lw" x1="922.63" y1="1325.95" x2="922.63" y2="1337.86"/>
+    </g>
+    <g id="dj" data-name="LWPOLYLINE">
+      <polyline class="lw" points="1023.54 1048.58 1034.88 1048.58 1034.88 1217.39"/>
+    </g>
+    <g id="dk" data-name="LWPOLYLINE">
+      <polyline class="lw" points="937.37 1219.65 937.37 1168.63 936.8 1168.63 936.8 1219.65"/>
+    </g>
+    <g id="dl" data-name="LWPOLYLINE">
+      <rect class="lw" x="783.73" y="1076.22" width=".57" height="134.93"/>
+    </g>
+    <g id="dm" data-name="LINE">
+      <line class="lw" x1="541.09" y1="997.13" x2="541.09" y2="922.87"/>
+    </g>
+    <g id="dn" data-name="LINE">
+      <line class="lw" x1="539.52" y1="996.28" x2="539.51" y2="923.72"/>
+    </g>
+    <g id="do" data-name="LWPOLYLINE">
+      <rect class="lw" x="861.4" y="1232.69" width=".57" height="130.11"/>
+    </g>
+    <g id="dp" data-name="LWPOLYLINE">
+      <line class="lw" x1="934.97" y1="1035.6" x2="1012.16" y2="1042.84"/>
+    </g>
+    <g id="dq" data-name="LWPOLYLINE">
+      <line class="lw" x1="933.66" y1="1037.36" x2="1013.12" y2="1044.81"/>
+    </g>
+    <g id="dr" data-name="LINE">
+      <line class="lw" x1="541.09" y1="1211.43" x2="541.09" y2="1076.5"/>
+    </g>
+    <g id="ds" data-name="LINE">
+      <line class="lw" x1="539.52" y1="1210.58" x2="539.52" y2="1077.35"/>
+    </g>
+    <g id="dt" data-name="LINE">
+      <line class="lw" x1="541.09" y1="842.36" x2="541.09" y2="768.09"/>
+    </g>
+    <g id="du" data-name="LINE">
+      <line class="lw" x1="539.52" y1="841.51" x2="539.51" y2="768.94"/>
+    </g>
+    <g id="dv" data-name="LINE">
+      <line class="lw" x1="699.54" y1="716.5" x2="699.54" y2="579.87"/>
+    </g>
+    <g id="dw" data-name="LINE">
+      <line class="lw" x1="701.12" y1="580.72" x2="701.12" y2="715.65"/>
+    </g>
+    <g id="dx" data-name="LINE">
+      <line class="lw" x1="541.09" y1="721.61" x2="541.09" y2="680.22"/>
+    </g>
+    <g id="dy" data-name="LINE">
+      <line class="lw" x1="541.09" y1="679.09" x2="541.09" y2="607.09"/>
+    </g>
+    <g id="dz" data-name="LINE">
+      <line class="lw" x1="539.52" y1="720.76" x2="539.52" y2="681.07"/>
+    </g>
+    <g id="ea" data-name="LINE">
+      <line class="lw" x1="539.52" y1="678.24" x2="539.52" y2="607.94"/>
+    </g>
+    <g id="eb" data-name="HATCH">
+      <path class="mj" d="M541.65,899.9h368.5v-13.04h-5.67v5.67h-357.17v-5.67h-5.67v13.04M541.65,736.63h368.5s0-7.37,0-7.37h-52.44v-10.77h-11.34v10.77h-144.57v-10.77h-8.5v10.77h-145.98s0-5.67,0-5.67h-5.67s0,13.04,0,13.04M904.49,1047.31h-357.17v-5.67h-5.67v13.04h19.84v20.98h17.01v-20.98h192.76v20.98h17.01v-20.98h130.39v20.98s17.01,0,17.01,0v-34.02h-31.18v5.67M936.09,1213.42h-397.28v185.95s17.01,0,17.01,0v-17.01h215.43v17.01h17.01v-17.01h218.27s0,17.01,0,17.01h17.01v-185.95h-11.34v111.97h-19.46s0,8.5,0,8.5h-53.67v8.5s-15.02,0-15.02,0v8.5s-15.02,0-15.02,0v8.5h-15.02v11.62h-335.34v-7.09h-5.67v7.09h-2.83v-150.24h221.1v20.98h17.01v-20.98h147.83v-7.37M909.86,1371.02l45.07-28.63h57.27v28.63h-102.34M701.81,577.89h-160.16v-5.67h160.16v5.67Z"/>
+    </g>
+    <g id="ec" data-name="HATCH">
+      <path class="mh" d="M854.88,652.72h-5.67v65.76s5.67,0,5.67,0v-65.76M547.32,577.89h-5.67v25.51s5.67,0,5.67,0v-25.51M547.32,736.63h-5.67v26.65s5.67,0,5.67,0v-26.65M547.32,847.18h-5.67v39.69h5.67v-39.69M541.65,918.05h5.67v-18.14h-5.67v18.14M541.65,1041.64h5.67v-39.69h-5.67v39.69M541.65,1074.52h5.67v-19.84h-5.67v19.84M552.99,1363.94h5.67v-143.15h-5.67v143.15M1023.54,1048.58h-11.34v164.84s11.34,0,11.34,0v-164.84Z"/>
+      <path class="mh" d="M541.65,578.27l.38-.38M541.65,583.36l5.47-5.47M541.65,588.45l5.67-5.67M541.65,593.55l5.67-5.67M541.65,598.64l5.67-5.67M541.98,603.4l5.34-5.34M547.07,603.4l.25-.25M541.65,741.19l4.56-4.56M541.65,746.28l5.67-5.67M541.65,751.37l5.67-5.67M541.65,756.46l5.67-5.67M541.65,761.55l5.67-5.67M545.02,763.28l2.3-2.3M541.65,848.1l.92-.92M541.65,853.2l5.67-5.67M541.65,858.29l5.67-5.67M541.65,863.38l5.67-5.67M541.65,868.47l5.67-5.67M541.65,873.56l5.67-5.67M541.65,878.65l5.67-5.67M541.65,883.74l5.67-5.67M543.62,886.87l3.7-3.7M541.65,904.11l4.2-4.2M541.65,909.2l5.67-5.67M541.65,914.29l5.67-5.67M542.99,918.05l4.34-4.34M849.21,657.64l4.92-4.92M849.21,662.73l5.67-5.67M849.21,667.82l5.67-5.67M849.21,672.92l5.67-5.67M849.21,678.01l5.67-5.67M849.21,683.1l5.67-5.67M849.21,688.19l5.67-5.67M849.21,693.28l5.67-5.67M541.65,1005.93l3.98-3.98M849.21,698.37l5.67-5.67M541.65,1011.02l5.67-5.67M849.21,703.46l5.67-5.67M541.65,1016.11l5.67-5.67M849.21,708.55l5.67-5.67M541.65,1021.2l5.67-5.67M849.21,713.65l5.67-5.67M541.65,1026.3l5.67-5.67M849.46,718.49l5.42-5.42M541.65,1031.39l5.67-5.67M854.55,718.49l.33-.33M541.65,1036.48l5.67-5.67M541.65,1041.57l5.67-5.67M546.68,1041.64l.65-.65M541.65,1056.84l2.17-2.17M541.65,1061.93l5.67-5.67M541.65,1067.02l5.67-5.67M541.65,1072.12l5.67-5.67M544.34,1074.52l2.98-2.98M552.99,1223.69l2.91-2.91M552.99,1228.79l5.67-5.67M552.99,1233.88l5.67-5.67M552.99,1238.97l5.67-5.67M552.99,1244.06l5.67-5.67M552.99,1249.15l5.67-5.67M552.99,1254.24l5.67-5.67M552.99,1259.33l5.67-5.67M552.99,1264.42l5.67-5.67M552.99,1269.52l5.67-5.67M552.99,1274.61l5.67-5.67M552.99,1279.7l5.67-5.67M552.99,1284.79l5.67-5.67M552.99,1289.88l5.67-5.67M552.99,1294.97l5.67-5.67M552.99,1300.06l5.67-5.67M552.99,1305.15l5.67-5.67M552.99,1310.24l5.67-5.67M552.99,1315.34l5.67-5.67M552.99,1320.43l5.67-5.67M552.99,1325.52l5.67-5.67M552.99,1330.61l5.67-5.67M552.99,1335.7l5.67-5.67M552.99,1340.79l5.67-5.67M552.99,1345.88l5.67-5.67M552.99,1350.97l5.67-5.67M552.99,1356.07l5.67-5.67M552.99,1361.16l5.67-5.67M555.3,1363.94l3.36-3.36M1012.2,1049.59l1.01-1.01M1012.2,1054.68l6.1-6.1M1012.2,1059.77l11.19-11.19M1012.2,1064.86l11.34-11.34M1012.2,1069.95l11.34-11.34M1012.2,1075.04l11.34-11.34M1012.2,1080.13l11.34-11.34M1012.2,1085.23l11.34-11.34M1012.2,1090.32l11.34-11.34M1012.2,1095.41l11.34-11.34M1012.2,1100.5l11.34-11.34M1012.2,1105.59l11.34-11.34M1012.2,1110.68l11.34-11.34M1012.2,1115.77l11.34-11.34M1012.2,1120.86l11.34-11.34M1012.2,1125.96l11.34-11.34M1012.2,1131.05l11.34-11.34M1012.2,1136.14l11.34-11.34M1012.2,1141.23l11.34-11.34M1012.2,1146.32l11.34-11.34M1012.2,1151.41l11.34-11.34M1012.2,1156.5l11.34-11.34M1012.2,1161.59l11.34-11.34M1012.2,1166.68l11.34-11.34M1012.2,1171.78l11.34-11.34M1012.2,1176.87l11.34-11.34M1012.2,1181.96l11.34-11.34M1012.2,1187.05l11.34-11.34M1012.2,1192.14l11.34-11.34M1012.2,1197.23l11.34-11.34M1012.2,1202.32l11.34-11.34M1012.2,1207.41l11.34-11.34M1012.2,1212.5l11.34-11.34M1016.38,1213.42l7.16-7.16M1021.48,1213.42l2.07-2.07"/>
+    </g>
+    <g id="ed" data-name="LINE">
+      <line class="mi" x1="547.32" y1="923.72" x2="547.32" y2="996.28"/>
+    </g>
+    <g id="ee" data-name="LINE">
+      <line class="mi" x1="538.82" y1="923.72" x2="538.82" y2="996.28"/>
+    </g>
+    <g id="ef" data-name="LINE">
+      <line class="mi" x1="547.32" y1="1077.35" x2="547.32" y2="1210.58"/>
+    </g>
+    <g id="eg" data-name="LINE">
+      <line class="mi" x1="538.82" y1="1077.35" x2="538.82" y2="1210.58"/>
+    </g>
+    <g id="eh" data-name="LINE">
+      <line class="mi" x1="547.32" y1="768.94" x2="547.32" y2="841.51"/>
+    </g>
+    <g id="ei" data-name="LINE">
+      <line class="mi" x1="538.82" y1="768.94" x2="538.82" y2="841.51"/>
+    </g>
+    <g id="ej" data-name="LINE">
+      <line class="mi" x1="693.31" y1="715.65" x2="693.31" y2="591.5"/>
+    </g>
+    <g id="ek" data-name="LINE">
+      <line class="mi" x1="701.81" y1="715.65" x2="701.81" y2="580.72"/>
+    </g>
+    <g id="el" data-name="LINE">
+      <line class="mi" x1="547.32" y1="607.94" x2="547.32" y2="678.24"/>
+    </g>
+    <g id="em" data-name="LINE">
+      <line class="mi" x1="547.32" y1="681.07" x2="547.32" y2="720.76"/>
+    </g>
+    <g id="en" data-name="LINE">
+      <line class="mi" x1="538.82" y1="607.94" x2="538.82" y2="678.24"/>
+    </g>
+    <g id="eo" data-name="LINE">
+      <line class="mi" x1="538.82" y1="681.07" x2="538.82" y2="720.76"/>
+    </g>
+    <g id="ep" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="996.28" width="5.67" height="2.83"/>
+    </g>
+    <g id="eq" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 997.13 540.52 997.13 540.52 998.27 541.65 998.27"/>
+    </g>
+    <g id="er" data-name="LINE">
+      <line class="mb" x1="540.52" y1="997.7" x2="538.82" y2="997.7"/>
+    </g>
+    <g id="es" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 996.28 538.82 996.28 538.82 999.12 539.51 999.12"/>
+    </g>
+    <g id="et" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="1074.52" width="5.67" height="2.83"/>
+    </g>
+    <g id="eu" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 1075.37 540.52 1075.37 540.52 1076.5 541.65 1076.5"/>
+    </g>
+    <g id="ev" data-name="LINE">
+      <line class="mb" x1="540.52" y1="1075.94" x2="538.82" y2="1075.94"/>
+    </g>
+    <g id="ew" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 1074.52 538.82 1074.52 538.82 1077.35 539.51 1077.35"/>
+    </g>
+    <g id="ex" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="1210.58" width="5.67" height="2.83"/>
+    </g>
+    <g id="ey" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 1211.43 540.52 1211.43 540.52 1212.57 541.65 1212.57"/>
+    </g>
+    <g id="ez" data-name="LINE">
+      <line class="mb" x1="540.52" y1="1212" x2="538.82" y2="1212"/>
+    </g>
+    <g id="fa" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 1210.58 538.82 1210.58 538.82 1213.42 539.51 1213.42"/>
+    </g>
+    <g id="fb" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="920.88" width="5.67" height="2.83"/>
+    </g>
+    <g id="fc" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 921.73 540.52 921.73 540.52 922.87 541.65 922.87"/>
+    </g>
+    <g id="fd" data-name="LINE">
+      <line class="mb" x1="540.52" y1="922.3" x2="538.82" y2="922.3"/>
+    </g>
+    <g id="fe" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 920.88 538.82 920.88 538.82 923.72 539.51 923.72"/>
+    </g>
+    <g id="ff" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="841.51" width="5.67" height="2.83"/>
+    </g>
+    <g id="fg" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 842.36 540.52 842.36 540.52 843.5 541.65 843.5"/>
+    </g>
+    <g id="fh" data-name="LINE">
+      <line class="mb" x1="540.52" y1="842.93" x2="538.82" y2="842.93"/>
+    </g>
+    <g id="fi" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 841.51 538.82 841.51 538.82 844.35 539.51 844.35"/>
+    </g>
+    <g id="fj" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="766.11" width="5.67" height="2.83"/>
+    </g>
+    <g id="fk" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 766.96 540.52 766.96 540.52 768.09 541.65 768.09"/>
+    </g>
+    <g id="fl" data-name="LINE">
+      <line class="mb" x1="540.52" y1="767.53" x2="538.82" y2="767.53"/>
+    </g>
+    <g id="fm" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 766.11 538.82 766.11 538.82 768.94 539.51 768.94"/>
+    </g>
+    <g id="fn" data-name="LWPOLYLINE">
+      <rect class="mb" x="693.31" y="715.65" width="5.67" height="2.83"/>
+    </g>
+    <g id="fo" data-name="LWPOLYLINE">
+      <polyline class="mb" points="698.98 717.64 700.11 717.64 700.11 716.5 698.98 716.5"/>
+    </g>
+    <g id="fp" data-name="LINE">
+      <line class="mb" x1="700.11" y1="717.07" x2="701.81" y2="717.07"/>
+    </g>
+    <g id="fq" data-name="LWPOLYLINE">
+      <polyline class="mb" points="701.11 718.49 701.81 718.49 701.81 715.65 701.12 715.65"/>
+    </g>
+    <g id="fr" data-name="LWPOLYLINE">
+      <rect class="mb" x="693.31" y="577.89" width="5.67" height="2.83"/>
+    </g>
+    <g id="fs" data-name="LWPOLYLINE">
+      <polyline class="mb" points="698.98 579.87 700.11 579.87 700.11 578.74 698.98 578.74"/>
+    </g>
+    <g id="ft" data-name="LINE">
+      <line class="mb" x1="700.11" y1="579.31" x2="701.81" y2="579.31"/>
+    </g>
+    <g id="fu" data-name="LWPOLYLINE">
+      <polyline class="mb" points="701.11 580.72 701.81 580.72 701.81 577.89 701.12 577.89"/>
+    </g>
+    <g id="fv" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="720.76" width="5.67" height="2.83"/>
+    </g>
+    <g id="fw" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 721.61 540.52 721.61 540.52 722.74 541.65 722.74"/>
+    </g>
+    <g id="fx" data-name="LINE">
+      <line class="mb" x1="540.52" y1="722.17" x2="538.82" y2="722.17"/>
+    </g>
+    <g id="fy" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 720.76 538.82 720.76 538.82 723.59 539.51 723.59"/>
+    </g>
+    <g id="fz" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="606.24" width="5.67" height="2.83"/>
+    </g>
+    <g id="ga" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 607.09 540.52 607.09 540.52 608.22 541.65 608.22"/>
+    </g>
+    <g id="gb" data-name="LINE">
+      <line class="mb" x1="540.52" y1="607.65" x2="538.82" y2="607.65"/>
+    </g>
+    <g id="gc" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 606.24 538.82 606.24 538.82 609.07 539.51 609.07"/>
+    </g>
+    <g id="gd" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="678.24" width="5.67" height="2.83"/>
+    </g>
+    <g id="ge" data-name="LWPOLYLINE">
+      <polyline class="mb" points="541.65 679.09 540.52 679.09 540.52 680.22 541.65 680.22"/>
+    </g>
+    <g id="gf" data-name="LINE">
+      <line class="mb" x1="540.52" y1="679.65" x2="538.82" y2="679.65"/>
+    </g>
+    <g id="gg" data-name="LWPOLYLINE">
+      <polyline class="mb" points="539.52 678.24 538.82 678.24 538.82 681.07 539.51 681.07"/>
+    </g>
+    <g id="gh" data-name="LINE">
+      <line class="mb" x1="551.86" y1="1045.61" x2="901.65" y2="1045.61"/>
+    </g>
+    <g id="gi" data-name="LINE">
+      <line class="mb" x1="558.66" y1="1363.37" x2="894" y2="1363.37"/>
+    </g>
+    <g id="gj" data-name="LINE">
+      <line class="mb" x1="558.66" y1="1363.94" x2="894" y2="1363.94"/>
+    </g>
+    <g id="gk" data-name="LINE">
+      <line class="mb" x1="916.96" y1="1041.64" x2="916.96" y2="920.88"/>
+    </g>
+    <g id="gl" data-name="LWPOLYLINE">
+      <line class="mb" x1="550.16" y1="890.83" x2="901.65" y2="890.83"/>
+    </g>
+    <g id="gm" data-name="LWPOLYLINE">
+      <polyline class="mb" points="538.82 1041.64 538.82 999.12 551.86 999.12 551.86 1047.31"/>
+    </g>
+    <g id="gn" data-name="LWPOLYLINE">
+      <polyline class="mb" points="547.32 922.3 551.86 922.3 551.86 899.9"/>
+    </g>
+    <g id="go" data-name="LINE">
+      <line class="mb" x1="916.96" y1="886.87" x2="916.96" y2="757.61"/>
+    </g>
+    <g id="gp" data-name="LINE">
+      <line class="mb" x1="564.33" y1="755.92" x2="772.68" y2="755.92"/>
+    </g>
+    <g id="gq" data-name="LINE">
+      <line class="mb" x1="564.33" y1="754.78" x2="772.68" y2="754.78"/>
+    </g>
+    <g id="gr" data-name="LINE">
+      <line class="mb" x1="887.48" y1="755.92" x2="786.85" y2="755.92"/>
+    </g>
+    <g id="gs" data-name="LINE">
+      <line class="mb" x1="887.48" y1="754.78" x2="786.85" y2="754.78"/>
+    </g>
+    <g id="gt" data-name="LINE">
+      <line class="mb" x1="550.16" y1="727.56" x2="693.31" y2="727.56"/>
+    </g>
+    <g id="gu" data-name="LWPOLYLINE">
+      <line class="mb" x1="701.81" y1="719.62" x2="846.38" y2="719.62"/>
+    </g>
+    <g id="gv" data-name="LINE">
+      <line class="mb" x1="846.38" y1="718.49" x2="846.38" y2="652.72"/>
+    </g>
+    <g id="gw" data-name="LINE">
+      <line class="mb" x1="857.72" y1="652.72" x2="857.72" y2="718.49"/>
+    </g>
+    <g id="gx" data-name="LWPOLYLINE">
+      <polyline class="mb" points="551.86 591.5 693.31 591.5 693.31 577.89"/>
+    </g>
+    <g id="gy" data-name="LWPOLYLINE">
+      <polyline class="mb" points="551.86 590.36 692.17 590.36 692.17 577.89"/>
+    </g>
+    <g id="gz" data-name="LWPOLYLINE">
+      <line class="mb" x1="535.98" y1="571.09" x2="695.01" y2="571.09"/>
+    </g>
+    <g id="ha" data-name="LWPOLYLINE">
+      <line class="mb" x1="535.98" y1="570.52" x2="695.01" y2="570.52"/>
+    </g>
+    <g id="hb" data-name="LWPOLYLINE">
+      <line class="mb" x1="535.98" y1="572.22" x2="535.98" y2="567.68"/>
+    </g>
+    <g id="hc" data-name="LWPOLYLINE">
+      <line class="mb" x1="534.85" y1="572.22" x2="534.85" y2="567.68"/>
+    </g>
+    <g id="hd" data-name="LWPOLYLINE">
+      <rect class="mb" x="541.65" y="572.22" width="160.16" height="5.67"/>
+    </g>
+    <g id="he" data-name="LWPOLYLINE">
+      <rect class="mb" x="844.96" y="651.02" width="14.17" height="1.7"/>
+    </g>
+    <g id="hf" data-name="LWPOLYLINE">
+      <line class="mb" x1="857.72" y1="721.32" x2="923.2" y2="721.32"/>
+    </g>
+    <g id="hg" data-name="LWPOLYLINE">
+      <line class="mb" x1="857.72" y1="719.62" x2="923.2" y2="719.62"/>
+    </g>
+    <g id="hh" data-name="LWPOLYLINE">
+      <line class="mb" x1="923.2" y1="723.59" x2="923.2" y2="717.35"/>
+    </g>
+    <g id="hi" data-name="LWPOLYLINE">
+      <line class="mb" x1="924.33" y1="723.59" x2="924.33" y2="717.35"/>
+    </g>
+    <g id="hj" data-name="LWPOLYLINE">
+      <line class="mb" x1="696.14" y1="572.22" x2="696.14" y2="567.68"/>
+    </g>
+    <g id="hk" data-name="LWPOLYLINE">
+      <line class="mb" x1="695.01" y1="572.22" x2="695.01" y2="567.68"/>
+    </g>
+    <g id="hl" data-name="LWPOLYLINE">
+      <polyline class="mb" points="922.63 1220.79 922.63 1232.13 793.94 1232.13 793.94 1226.46 788.27 1226.46"/>
+    </g>
+    <g id="hm" data-name="LWPOLYLINE">
+      <polyline class="mb" points="921.5 1220.79 921.5 1230.99 795.07 1230.99 795.07 1225.32 788.27 1225.32"/>
+    </g>
+    <g id="hn" data-name="LWPOLYLINE">
+      <polyline class="mb" points="1009.37 1325.39 1009.37 1048.58 1012.2 1048.58"/>
+    </g>
+    <g id="ho" data-name="LINE">
+      <line class="mb" x1="547.32" y1="1211.72" x2="936.09" y2="1211.72"/>
+    </g>
+    <g id="hp" data-name="LINE">
+      <line class="mb" x1="538.82" y1="886.87" x2="538.82" y2="844.35"/>
+    </g>
+    <g id="hq" data-name="LWPOLYLINE">
+      <polyline class="mb" points="547.32 842.93 550.16 842.93 550.16 892.53"/>
+    </g>
+    <g id="hr" data-name="LINE">
+      <line class="mb" x1="538.82" y1="757.61" x2="538.82" y2="766.11"/>
+    </g>
+    <g id="hs" data-name="LWPOLYLINE">
+      <polyline class="mb" points="547.32 767.53 550.16 767.53 550.16 736.63"/>
+    </g>
+    <g id="ht" data-name="LWPOLYLINE">
+      <polyline class="mb" points="547.32 722.17 550.16 722.17 550.16 729.26"/>
+    </g>
+    <g id="hu" data-name="LWPOLYLINE">
+      <polyline class="mb" points="547.32 607.65 551.86 607.65 551.86 577.89"/>
+    </g>
+    <g id="hv" data-name="LINE">
+      <line class="mb" x1="901.65" y1="892.53" x2="901.65" y2="736.63"/>
+    </g>
+    <g id="hw" data-name="LINE">
+      <line class="mb" x1="908.46" y1="729.26" x2="916.96" y2="729.26"/>
+    </g>
+    <g id="hx" data-name="LINE">
+      <line class="mb" x1="901.65" y1="1047.31" x2="901.65" y2="899.9"/>
+    </g>
+    <g id="hy" data-name="LINE">
+      <line class="mb" x1="538.82" y1="572.22" x2="541.65" y2="572.22"/>
+    </g>
+    <g id="hz" data-name="LWPOLYLINE">
+      <line class="mb" x1="936.8" y1="1041.52" x2="1009.37" y2="1048.33"/>
+    </g>
+    <g id="ia" data-name="LWPOLYLINE">
+      <line class="mb" x1="937.15" y1="1037.86" x2="1009.71" y2="1044.66"/>
+    </g>
+    <g id="ib" data-name="LINE">
+      <line class="mb" x1="918.66" y1="1075.65" x2="918.66" y2="1211.72"/>
+    </g>
+    <g id="ic" data-name="LINE">
+      <line class="mb" x1="936.79" y1="1041.64" x2="936.8" y2="1168.63"/>
+    </g>
+    <g id="id" data-name="LINE">
+      <line class="mb" x1="918.66" y1="1076.79" x2="788.27" y2="1076.79"/>
+    </g>
+    <g id="ie" data-name="LINE">
+      <line class="mb" x1="788.27" y1="1075.65" x2="788.27" y2="1118.17"/>
+    </g>
+    <g id="if" data-name="LINE">
+      <line class="mb" x1="788.27" y1="1186.2" x2="788.27" y2="1211.72"/>
+    </g>
+    <g id="ig" data-name="LINE">
+      <line class="mb" x1="753.12" y1="1075.65" x2="753.12" y2="1211.72"/>
+    </g>
+    <g id="ih" data-name="LINE">
+      <line class="mb" x1="771.83" y1="1075.65" x2="578.5" y2="1075.65"/>
+    </g>
+    <g id="ii" data-name="LINE">
+      <line class="mb" x1="579.64" y1="1075.65" x2="579.64" y2="1211.72"/>
+    </g>
+    <g id="ij" data-name="LINE">
+      <line class="mb" x1="786.85" y1="900.47" x2="786.85" y2="1045.61"/>
+    </g>
+    <g id="ik" data-name="LINE">
+      <line class="mb" x1="772.68" y1="900.47" x2="772.68" y2="1045.61"/>
+    </g>
+    <g id="il" data-name="LINE">
+      <line class="mb" x1="564.33" y1="910.68" x2="772.68" y2="910.68"/>
+    </g>
+    <g id="im" data-name="LINE">
+      <line class="mb" x1="887.48" y1="910.68" x2="786.85" y2="910.68"/>
+    </g>
+    <g id="in" data-name="LINE">
+      <line class="mb" x1="564.33" y1="900.47" x2="564.33" y2="1045.61"/>
+    </g>
+    <g id="io" data-name="LINE">
+      <line class="mb" x1="552.99" y1="900.47" x2="552.99" y2="1045.61"/>
+    </g>
+    <g id="ip" data-name="LINE">
+      <line class="mb" x1="786.85" y1="736.63" x2="786.85" y2="890.83"/>
+    </g>
+    <g id="iq" data-name="LINE">
+      <line class="mb" x1="772.68" y1="736.63" x2="772.68" y2="890.83"/>
+    </g>
+    <g id="ir" data-name="LINE">
+      <line class="mb" x1="564.33" y1="747.41" x2="772.68" y2="747.41"/>
+    </g>
+    <g id="is" data-name="LINE">
+      <line class="mb" x1="887.48" y1="747.41" x2="786.85" y2="747.41"/>
+    </g>
+    <g id="it" data-name="LINE">
+      <line class="mb" x1="564.33" y1="737.21" x2="564.33" y2="890.83"/>
+    </g>
+    <g id="iu" data-name="LINE">
+      <line class="mb" x1="552.99" y1="737.21" x2="552.99" y2="890.83"/>
+    </g>
+    <g id="iv" data-name="LINE">
+      <line class="mb" x1="562.91" y1="585.83" x2="679.18" y2="585.83"/>
+    </g>
+    <g id="iw" data-name="LINE">
+      <line class="mb" x1="679.13" y1="578.5" x2="679.13" y2="727.56"/>
+    </g>
+    <g id="ix" data-name="LINE">
+      <line class="mb" x1="562.91" y1="578.46" x2="562.91" y2="727.56"/>
+    </g>
+    <g id="iy" data-name="LINE">
+      <line class="mb" x1="554.41" y1="578.46" x2="554.41" y2="727.56"/>
+    </g>
+    <g id="iz" data-name="LINE">
+      <line class="mb" x1="578.5" y1="1241.76" x2="578.5" y2="1363.37"/>
+    </g>
+    <g id="ja" data-name="LINE">
+      <line class="mb" x1="788.27" y1="1241.76" x2="788.27" y2="1363.37"/>
+    </g>
+    <g id="jb" data-name="LINE">
+      <line class="mb" x1="754.25" y1="1363.37" x2="754.25" y2="1241.76"/>
+    </g>
+    <g id="jc" data-name="LINE">
+      <line class="mb" x1="771.26" y1="1241.76" x2="558.66" y2="1241.76"/>
+    </g>
+    <g id="jd" data-name="LINE">
+      <line class="mb" x1="888.9" y1="955.18" x2="888.9" y2="911.24"/>
+    </g>
+    <g id="je" data-name="LINE">
+      <line class="mb" x1="897.4" y1="954.61" x2="897.4" y2="911.24"/>
+    </g>
+    <g id="jf" data-name="LINE">
+      <line class="mb" x1="888.9" y1="990.33" x2="888.9" y2="1045.61"/>
+    </g>
+    <g id="jg" data-name="LINE">
+      <line class="mb" x1="897.4" y1="990.33" x2="897.4" y2="1045.61"/>
+    </g>
+    <g id="jh" data-name="LINE">
+      <line class="mb" x1="897.4" y1="835.56" x2="897.4" y2="890.83"/>
+    </g>
+    <g id="ji" data-name="LINE">
+      <line class="mb" x1="888.9" y1="835.56" x2="888.9" y2="890.83"/>
+    </g>
+    <g id="jj" data-name="LINE">
+      <line class="mb" x1="897.4" y1="803.26" x2="897.4" y2="747.98"/>
+    </g>
+    <g id="jk" data-name="LINE">
+      <line class="mb" x1="888.9" y1="803.26" x2="888.9" y2="747.98"/>
+    </g>
+    <g id="jl" data-name="LINE">
+      <line class="mb" x1="687.64" y1="578.5" x2="687.64" y2="727.56"/>
+    </g>
+    <g id="jm" data-name="LWPOLYLINE">
+      <polyline class="lx" points="890.6 1363.37 890.6 1354.87 905.62 1354.87 905.62 1346.36 920.65 1346.36 920.65 1337.86 935.67 1337.86 935.67 1329.35 989.34 1329.35 989.34 1320.85 1009.37 1320.85"/>
+    </g>
+    <g id="jn" data-name="LWPOLYLINE">
+      <polyline class="lx" points="892.3 1363.37 892.3 1356.57 907.32 1356.57 907.32 1348.06 922.35 1348.06 922.35 1339.56 937.37 1339.56 937.37 1331.05 991.04 1331.05 991.04 1322.55 1009.37 1322.55"/>
+    </g>
+    <g id="jo" data-name="LWPOLYLINE">
+      <polyline class="lx" points="538.82 1074.52 538.82 1075.65 526.91 1075.65 526.91 1041.64 538.82 1041.64"/>
+    </g>
+    <g id="jp" data-name="LWPOLYLINE">
+      <polyline class="lx" points="541.65 920.88 526.91 920.88 526.91 886.87 538.82 886.87"/>
+    </g>
+    <g id="jq" data-name="LWPOLYLINE">
+      <polyline class="lx" points="538.82 757.61 526.91 757.61 526.91 723.59 538.82 723.59"/>
+    </g>
+    <g id="jr" data-name="LWPOLYLINE">
+      <polyline class="lx" points="916.96 920.88 928.87 920.88 928.87 886.87 916.96 886.87"/>
+    </g>
+    <g id="js" data-name="LWPOLYLINE">
+      <polyline class="lx" points="916.96 757.61 928.87 757.61 928.87 723.59 916.96 723.59 916.96 729.26"/>
+    </g>
+    <g id="jt" data-name="LWPOLYLINE">
+      <polyline class="lx" points="538.82 606.24 526.91 606.24 526.91 572.22 538.82 572.22"/>
+    </g>
+    <g id="ju" data-name="LWPOLYLINE">
+      <rect class="lx" x="526.91" y="566.55" width="180.96" height="1.13"/>
+    </g>
+    <g id="jv" data-name="LINE">
+      <line class="lx" x1="701.81" y1="718.49" x2="846.38" y2="718.49"/>
+    </g>
+    <g id="jw" data-name="LWPOLYLINE">
+      <polyline class="lx" points="857.72 716.22 928.87 716.22 928.87 717.35 857.72 717.35"/>
+    </g>
+    <g id="jx" data-name="LINE">
+      <line class="mk" x1="904.49" y1="886.87" x2="904.49" y2="736.63"/>
+    </g>
+    <g id="jy" data-name="LINE">
+      <line class="mk" x1="910.16" y1="886.87" x2="910.16" y2="736.63"/>
+    </g>
+    <g id="jz" data-name="LINE">
+      <line class="mk" x1="904.49" y1="1041.64" x2="904.49" y2="899.9"/>
+    </g>
+    <g id="ka" data-name="LINE">
+      <line class="mk" x1="910.16" y1="1041.64" x2="910.16" y2="899.9"/>
+    </g>
+    <g id="kb" data-name="LWPOLYLINE">
+      <polygon class="mk" points="934.72 1037.63 934.74 1037.46 935.86 1037.56 935.49 1041.52 935.32 1041.5 935.68 1037.72 934.72 1037.63"/>
+    </g>
+    <g id="kc" data-name="LWPOLYLINE">
+      <polygon class="mk" points="938.11 1037.95 938.12 1037.78 936.99 1037.67 936.62 1041.62 936.79 1041.64 937.15 1037.86 938.11 1037.95"/>
+    </g>
+    <g id="kd" data-name="LWPOLYLINE">
+      <polygon class="mk" points="1008.75 1044.57 1008.77 1044.4 1009.9 1044.51 1009.53 1048.46 1009.36 1048.44 1009.71 1044.66 1008.75 1044.57"/>
+    </g>
+    <g id="ke" data-name="LWPOLYLINE">
+      <polygon class="mk" points="1012.14 1044.89 1012.16 1044.72 1011.03 1044.61 1010.66 1048.56 1010.83 1048.58 1011.18 1044.8 1012.14 1044.89"/>
+    </g>
+    <g id="kf" data-name="LWPOLYLINE">
+      <polygon class="mk" points="1013.23 1044.82 1013.12 1044.81 1013.29 1042.94 1012.16 1042.84 1012.17 1042.73 1013.41 1042.84 1013.23 1044.82"/>
+    </g>
+    <g id="kg" data-name="LWPOLYLINE">
+      <polygon class="mk" points="933.55 1037.35 933.66 1037.36 933.84 1035.5 934.97 1035.6 934.98 1035.49 933.74 1035.37 933.55 1037.35"/>
+    </g>
+    <g id="kh" data-name="LWPOLYLINE">
+      <polygon class="mk" points="1012.53 1045.18 1012.53 1048.58 1018.2 1048.58 1018.2 1045.18 1018.03 1045.18 1018.03 1048.41 1012.7 1048.41 1012.7 1045.18 1012.53 1045.18"/>
+    </g>
+    <g id="ki" data-name="LWPOLYLINE">
+      <polygon class="mk" points="928.81 1038.24 928.81 1041.64 934.47 1041.64 934.47 1038.24 934.3 1038.24 934.3 1041.47 928.98 1041.47 928.98 1038.24 928.81 1038.24"/>
+    </g>
+    <g id="kj" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.35,901.1v8.96c0,.34.28.62.62.62h4.85v.57h-11.34v-.57h4.85c.34,0,.62-.28.62-.62v-8.96c0-.34-.28-.62-.62-.62h-4.85v-.57h11.34v.57h-4.85c-.34,0-.62.28-.62.62Z"/>
+    </g>
+    <g id="kk" data-name="LWPOLYLINE">
+      <path class="mk" d="M558.86,901.1v8.96c0,.34.28.62.62.62h4.85v.57h-11.34v-.57h4.85c.34,0,.62-.28.62-.62v-8.96c0-.34-.28-.62-.62-.62h-4.85v-.57h11.34v.57h-4.85c-.34,0-.62.28-.62.62Z"/>
+    </g>
+    <g id="kl" data-name="LWPOLYLINE">
+      <path class="mk" d="M772.68,899.9h14.17v.57h-6.26c-.34,0-.62.28-.62.62v11.79c0,.34.28.62.62.62h6.26v.57h-14.17v-.57h6.26c.34,0,.62-.28.62-.62v-11.79c0-.34-.28-.62-.62-.62h-6.26v-.57Z"/>
+    </g>
+    <g id="km" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.35,737.83v8.96c0,.34.28.62.62.62h4.85v.57h-11.34v-.57h4.85c.34,0,.62-.28.62-.62v-8.96c0-.34-.28-.62-.62-.62h-4.85v-.57h11.34v.57h-4.85c-.34,0-.62.28-.62.62Z"/>
+    </g>
+    <g id="kn" data-name="LWPOLYLINE">
+      <path class="mk" d="M558.86,737.83v8.96c0,.34.28.62.62.62h4.85v.57h-11.34v-.57h4.85c.34,0,.62-.28.62-.62v-8.96c0-.34-.28-.62-.62-.62h-4.85v-.57h11.34v.57h-4.85c-.34,0-.62.28-.62.62Z"/>
+    </g>
+    <g id="ko" data-name="LWPOLYLINE">
+      <path class="mk" d="M772.68,736.64h14.17v.57h-6.26c-.34,0-.62.28-.62.62v11.79c0,.34.28.62.62.62h6.26v.57h-14.17v-.57h6.26c.34,0,.62-.28.62-.62v-11.79c0-.34-.28-.62-.62-.62h-6.26v-.57Z"/>
+    </g>
+    <g id="kp" data-name="LWPOLYLINE">
+      <path class="mk" d="M684.21,578.46c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43s0,.57,0,.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="kq" data-name="LWPOLYLINE">
+      <path class="mk" d="M559.48,578.46c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43v.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="kr" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.97,795.32c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43v.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="ks" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.97,836.13c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43v.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="kt" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.97,947.24c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43v.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="ku" data-name="LWPOLYLINE">
+      <path class="mk" d="M893.97,990.9c-.34,0-.62.28-.62.62v6.12c0,.34.28.62.62.62h3.43v.57h-8.5v-.57h3.43c.34,0,.62-.28.62-.62v-6.12c0-.34-.28-.62-.62-.62h-3.43v-.57h8.5v.57h-3.43Z"/>
+    </g>
+    <g id="kv" data-name="LWPOLYLINE">
+      <polyline class="mk" points="936.09 1220.79 938.08 1220.79 938.08 1211.72 937.51 1211.72 937.51 1219.65 936.66 1219.65 936.66 1211.72 936.09 1211.72 936.09 1213.42"/>
+    </g>
+    <g id="kw" data-name="LINE">
+      <line class="ma" x1="558.66" y1="1363.94" x2="558.66" y2="1220.79"/>
+    </g>
+    <g id="kx" data-name="LINE">
+      <line class="ma" x1="552.99" y1="1363.94" x2="552.99" y2="1220.79"/>
+    </g>
+    <g id="ky" data-name="LWPOLYLINE">
+      <polyline class="ma" points="1012.2 1213.42 1012.2 1048.58 1023.54 1048.58 1023.54 1213.42"/>
+    </g>
+    <g id="kz" data-name="LWPOLYLINE">
+      <polyline class="ma" points="849.21 718.49 849.21 652.72 854.88 652.72 854.88 718.49"/>
+    </g>
+    <g id="la" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 1054.68 541.65 1074.52 547.32 1074.52 547.32 1054.68"/>
+    </g>
+    <g id="lb" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 1041.64 541.65 1001.95 547.32 1001.95 547.32 1041.64"/>
+    </g>
+    <g id="lc" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 899.9 541.65 918.05 547.32 918.05 547.32 899.9"/>
+    </g>
+    <g id="ld" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 886.87 541.65 847.18 547.32 847.18 547.32 886.87"/>
+    </g>
+    <g id="le" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 736.63 541.65 763.28 547.32 763.28 547.32 736.63"/>
+    </g>
+    <g id="lf" data-name="LWPOLYLINE">
+      <polyline class="ma" points="541.65 577.89 541.65 603.4 547.32 603.4 547.32 577.89"/>
+    </g>
+    <g id="lg" data-name="LWPOLYLINE">
+      <polygon class="mo" points="1012.2 1342.39 954.93 1342.39 909.86 1371.02 1012.2 1371.02 1012.2 1342.39"/>
+    </g>
+    <g id="lh" data-name="LWPOLYLINE">
+      <polygon class="mo" points="1012.2 1325.39 992.74 1325.39 992.74 1333.89 939.07 1333.89 939.07 1342.39 924.05 1342.39 924.05 1350.9 909.02 1350.9 909.02 1359.4 894 1359.4 894 1371.02 558.66 1371.02 558.66 1363.94 552.99 1363.94 552.99 1371.02 550.16 1371.02 550.16 1220.79 771.26 1220.79 771.26 1241.76 788.27 1241.76 788.27 1220.79 936.09 1220.79 936.09 1213.42 538.82 1213.42 538.82 1399.37 555.83 1399.37 555.83 1382.36 771.26 1382.36 771.26 1399.37 788.27 1399.37 788.27 1382.36 1006.54 1382.36 1006.54 1399.37 1023.54 1399.37 1023.54 1213.42 1012.2 1213.42 1012.2 1325.39"/>
+    </g>
+    <g id="li" data-name="LWPOLYLINE">
+      <polygon class="mo" points="771.26 1054.68 771.26 1075.65 788.27 1075.65 788.27 1054.68 918.66 1054.68 918.66 1075.65 935.67 1075.65 935.67 1041.64 904.49 1041.64 904.49 1047.31 547.32 1047.31 547.32 1041.64 541.65 1041.64 541.65 1054.68 561.5 1054.68 561.5 1075.65 578.5 1075.65 578.5 1054.68 771.26 1054.68"/>
+    </g>
+    <g id="lj" data-name="LWPOLYLINE">
+      <polygon class="mo" points="846.38 729.26 846.38 718.49 857.72 718.49 857.72 729.26 910.16 729.26 910.16 736.63 541.65 736.63 541.65 723.59 547.32 723.59 547.32 729.26 693.31 729.26 693.31 718.49 701.81 718.49 701.81 729.26 846.38 729.26"/>
+    </g>
+    <g id="lk" data-name="LWPOLYLINE">
+      <polygon class="mo" points="910.16 886.87 904.49 886.87 904.49 892.53 547.32 892.53 547.32 886.87 541.65 886.87 541.65 899.9 910.16 899.9 910.16 886.87"/>
+    </g>
+    <g id="ll" data-name="LINE">
+      <line class="mf" x1="538.82" y1="1217.39" y2="1217.39"/>
+    </g>
+    <g id="lm" data-name="LINE">
+      <line class="mf" x1="1500" y1="1217.39" x2="1023.54" y2="1217.39"/>
+    </g>
+  </g>
+  <g id="lp" data-name="SCALE">
+    <g>
+      <g id="lq" data-name="MTEXT">
+        <text class="md" transform="translate(176.46 1886.03)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+      <g id="lr" data-name="MTEXT">
+        <text class="md" transform="translate(261.48 1886.03)"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="ls" data-name="MTEXT">
+        <text class="md" transform="translate(346.55 1886.03)"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g id="lt" data-name="MTEXT">
+        <text class="md" transform="translate(205.35 1886.03)"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g id="lu" data-name="MTEXT">
+        <text class="md" transform="translate(425.11 1886.03)"><tspan x="0" y="0">9m</tspan></text>
+      </g>
+      <g id="lv" data-name="LWPOLYLINE">
+        <polyline class="lx" points="435.93 1853.39 435.93 1870.4 350.89 1870.4 350.89 1853.39 265.85 1853.39 265.85 1870.4 209.16 1870.4 209.16 1853.39 180.81 1853.39 180.81 1870.4"/>
+      </g>
+    </g>
+  </g>
+</svg>
